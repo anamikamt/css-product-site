@@ -1,0 +1,22 @@
+body{
+        color:#40514E;
+        margin:0;
+        align-items: center;
+        
+        font-family: 'Merriweather', serif;
+}
+
+
+
+hr{
+    border:dotted rgba(104, 43, 119, 0.267) 6px;
+    border-bottom: none;
+    width:2%;
+    margin:100px auto;
+}
+
+.bottom-container{
+    background-color: #74afaf;
+    padding: 50px 0 20px;
+    text-align: center;
+}
